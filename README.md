@@ -19,6 +19,32 @@ I am a Full-Stack Developer attending DigitalCrafts Full Stack Development Booca
 
 I love to tinker with technology both on and off the web. Creative problem solver with the ability to pick up new concepts, languages, and technologoes as needed. 
 <!-- I enjoy working with teams, sharing ideas, and perfecting my craft. -->
+
+## Technologies
+<div align="center">
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" />
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" />
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="45" /> 
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="45" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />  
+</div> 
+
+<br />
+
+📫 How to reach me:
+<br />
+🖥 Portfolio: https://logrythmic.github.io/portfolio/
+<br />
+📩 Email: logrythmic.dev@gmail.com
+<br />
+💼 LinkedIn: https://www.linkedin.com/in/luqmaan-bradford-0b4525137/
+<br />
+
+
+<br />
 <!--
 **Logrythmic/Logrythmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
