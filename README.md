@@ -14,11 +14,11 @@ Growing up I always liked to build things. As time has passed I still do but I a
 
 ### A little about me
 
-I am a Full-Stack Developer attending DigitalCrafts Full Stack Development Boocamp.
-<!-- I am a Full-Stack Developer who graduated from DigitalCrafts Full Stack Development Boocamp. -->
+<!-- I am a Full-Stack Developer attending DigitalCrafts Full Stack Development Bootcamp. -->
+I am a Full-Stack Developer who graduated from DigitalCrafts Full Stack Development Bootcamp.
 
 I love to tinker with technology both on and off the web. Creative problem solver with the ability to pick up new concepts, languages, and technologoes as needed. 
-<!-- I enjoy working with teams, sharing ideas, and perfecting my craft. -->
+I enjoy working with teams, sharing ideas, and perfecting my craft.
 
 ## Technologies
 <div align="center">
